@@ -1,0 +1,28 @@
+﻿
+
+
+"cell_type": "code”, "execution_count": 1> "metadata": {}, "outputs": l
+I
+шяшвш
+
+data": {
+"text/html": [
+"<style>.MathJax_Display "	.rendered_html table, .
+. render ed__html td {\n",
+border: lpx color: black </style>"
+{text-aligni l,e .rendered html
+ft 1 impot t ant ;} \n*', th, .rendered html
+black solid ! important An1 !important;}\n",
+tr.
+
+
+"text/plain": [
+"<IPython.core.display.HTML object>"
+Ш
+"execut ion_count": 1, "metadata": {},
+"output_type": "execute result"
+"source": [
+"from utils import jupyter_style\n", "from myjira import *\n”,
+"import pandas as pd\n",
+
+":upyter_style()"
